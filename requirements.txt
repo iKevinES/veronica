@@ -1,0 +1,10 @@
+pyaudio
+gTTS
+datetime
+SpeechRecognition
+wikipedia
+smtp
+pyautogui
+psutil
+pyjokes
+playsound
